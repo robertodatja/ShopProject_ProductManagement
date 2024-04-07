@@ -1,1 +1,1 @@
-# ShopProject_ProductManagement
+# ShopProject_ProductManagement Part1-Part7
